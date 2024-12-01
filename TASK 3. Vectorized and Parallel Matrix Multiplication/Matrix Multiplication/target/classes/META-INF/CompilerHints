@@ -1,9 +1,0 @@
-dontinline,*.*_all_jmhStub
-dontinline,*.*_avgt_jmhStub
-dontinline,*.*_sample_jmhStub
-dontinline,*.*_ss_jmhStub
-dontinline,*.*_thrpt_jmhStub
-inline,org/example/BenchmarkMatrixMultiplication.basicMultiplication
-inline,org/example/BenchmarkMatrixMultiplication.parallelMultiplication
-inline,org/example/BenchmarkMatrixMultiplication.setup
-inline,org/example/BenchmarkMatrixMultiplication.vectorizedMultiplication
