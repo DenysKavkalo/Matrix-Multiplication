@@ -1,3 +1,0 @@
-FROM hazelcast/hazelcast:5.3.8
-
-COPY target/matrix-benchmark-1.0-SNAPSHOT.jar /opt/hazelcast/lib/matrix-benchmark.jar

@@ -1,3 +1,0 @@
-numpy
-hazelcast-python-client
-psutil
